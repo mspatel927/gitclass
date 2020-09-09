@@ -1,1 +1,1 @@
-This is a test project for git for CS 506.
+This is a test project for git for CS 506!
